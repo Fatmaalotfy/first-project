@@ -1,2 +1,2 @@
-# first-project
-first project in bank misr internship
+# about my first project
+
